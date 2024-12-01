@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Wireless Earbuds",
+      "price": "49.99",
+      "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+      "image": [
+        {
+          "image": "https://example.com/images/earbuds.jpg"
+        }
+      ],
+      "ratings": "4.5",
+      "seller": "TechGear",
+      "category": "Electronics",
+      "stock": "120",
+      "noOfReviews": "250",
+      "createdAt": "2024-11-30T10:00:00Z"
+    },
+    {
+      "name": "Yoga Mat",
+      "price": "19.99",
+      "description": "Durable and comfortable yoga mat with non-slip surface.",
+      "image": [
+        {
+          "image": "https://example.com/images/yoga-mat.jpg"
+        }
+      ],
+      "ratings": "4.7",
+      "seller": "FitLife",
+      "category": "Fitness",
+      "stock": "200",
+      "noOfReviews": "340",
+      "createdAt": "2024-11-29T15:30:00Z"
+    },
+    {
+      "name": "Smartphone Stand",
+      "price": "15.99",
+      "description": "Adjustable and portable smartphone stand for desk use.",
+      "image": [
+        {
+          "image": "https://example.com/images/phone-stand.jpg"
+        }
+      ],
+      "ratings": "4.2",
+      "seller": "GadgetStore",
+      "category": "Accessories",
+      "stock": "80",
+      "noOfReviews": "180",
+      "createdAt": "2024-11-28T09:45:00Z"
+    },
+    {
+      "name": "Gaming Keyboard",
+      "price": "89.99",
+      "description": "RGB mechanical gaming keyboard with customizable keys.",
+      "image": [
+        {
+          "image": "https://example.com/images/gaming-keyboard.jpg"
+        }
+      ],
+      "ratings": "4.8",
+      "seller": "GameZone",
+      "category": "Electronics",
+      "stock": "50",
+      "noOfReviews": "400",
+      "createdAt": "2024-11-27T18:20:00Z"
+    },
+    {
+      "name": "Coffee Mug",
+      "price": "12.99",
+      "description": "Ceramic coffee mug with heat-resistant handle.",
+      "image": [
+        {
+          "image": "https://example.com/images/coffee-mug.jpg"
+        }
+      ],
+      "ratings": "4.6",
+      "seller": "KitchenEssentials",
+      "category": "Kitchen",
+      "stock": "150",
+      "noOfReviews": "120",
+      "createdAt": "2024-11-26T12:10:00Z"
+    }
+  ]
+  
